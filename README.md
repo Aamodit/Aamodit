@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aamodit Saini</h1>
-<h3 align="center">A passionate App & Web developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neel-2002&label=Profile%20views&color=0e75b6&style=flat" alt="neel-2002" /> </p>
+<h3 align="center">A passionate Website developer & An Enthusiast E&Tc Engineer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aamodit&label=Profile%20views&color=0e75b6&style=flat" alt="Aamodit" /> </p>
 
 - 🔭 I’m currently working on *Portfolio Website*
 
