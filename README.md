@@ -36,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aamodit&show_icons=true&locale=en" alt="aamodit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aamodit&" alt="aamodit" /></p>
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Aamodit"></a>
+
