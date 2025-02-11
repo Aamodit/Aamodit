@@ -38,3 +38,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aamodit&" alt="aamodit" /></p>
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Aamodit"></a>
 
+[![An image of @aamodit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aamodit)](https://holopin.io/@aamodit
