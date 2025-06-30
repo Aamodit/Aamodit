@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 Currently working on **a Portfolio Website**  
-- 🌱 Learning **for GATE ECE'25**  
+- 🌱 Learning **for GATE ECE**  
 - 👯 Open to collaborate on **Full Stack Projects**  
 - 🤝 Seeking guidance in **career growth**  
 - 💬 Ask me about **Electronics, Coding, Anything**  
