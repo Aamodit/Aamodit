@@ -5,10 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=aamodit&label=Profile%20views&color=0e75b6&style=flat" alt="aamodit" />
 </p>
 
-- 🔭 Currently working on **a Portfolio Website**  
-- 🌱 Learning **for GATE ECE**  
+- 🔭 Currently working on **a Mess Meal Planner**  
+- 🌱 Learning **for Placements**  
 - 👯 Open to collaborate on **Full Stack Projects**  
-- 🤝 Seeking guidance in **career growth**  
+- 🤝 Seeking guidance in **Career Growth**  
 - 💬 Ask me about **Electronics, Coding, Anything**  
 - 📫 Reach me at **aamoditsaini@gmail.com**  
 - ⚡ Fun fact: **No ego, just better**  
