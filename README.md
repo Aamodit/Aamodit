@@ -53,8 +53,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aamodit&" alt="aamodit" />
 </p>
 
-<p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Aamodit"></a>
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aamodit&theme=gruvbox)
 
 ![Holopin Badges](https://holopin.me/aamodit)
